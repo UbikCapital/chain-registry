@@ -146,6 +146,10 @@
         "address": "agoric-rpc.nodeasy.com:31531",
         "provider": "Nodeasy"
       }
+      {
+        "address": "http://94.250.201.134:26657/",
+        "provider": "Ubik Capital"
+      }
     ],
     "rest": [
       {
